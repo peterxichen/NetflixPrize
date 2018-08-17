@@ -23,4 +23,9 @@ This directory comprises the following files
 - regress.py, predicts for ratings using movie-centric approach to ordinary least squares regression
 
 - sentiment.py, use Python package VADER to assign a sentiment score (-1 to +1) for each movie title
+
+Authors
 ----------------------------------------------
+
+- Peter Chen
+- Ben Burgess
