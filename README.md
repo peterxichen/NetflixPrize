@@ -1,11 +1,11 @@
 # NetflixPrize
 
-Abstract:
+Abstract
+----------------------------------------------
 
 In this study, we analyze Netflix data in which 2,649,430 users have provided rat-ings on a 1 to 5 scale for 17,770 movies to predict scores for a given movie anduser pairing.  We implement a variety of different methods, including normaliza-tion of global variables, linear regression, and latent class clustering. We observehere that simpler normalization and regression models produce better predictionsthan the more complex clustering models.  Finally, we demonstrate a method toextend the dataset using IMDb ratings and sentiment analysis from the movie’stitles to improve the performance of our models.
 
-----------------------------------------------
-COS 424: Netflix Prize (Spring 2018)
+Deployment
 ----------------------------------------------
 
 This directory comprises the following files
